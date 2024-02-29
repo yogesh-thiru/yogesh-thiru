@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yogesh-thiru
-- 👀 I’m interested in web development, AI based projects
-- 🌱 I’m currently learning 2nd year BE computer science and engineering
-- 💞️ I’m looking to collaborate on google! 
+- 👋 Hi, I’m @yogesh-thiru.
+- 👀 I’m interested in Low Latency development, c++ projects.
+- 🌱 I’m currently in my 3rd year of computer science Bachelors.
+- 💞️ I’m looking to collaborate on people with same frequency! 
 - 📫 my mail id - wolverinedyogesh@gmail.com
      Instagram _y0gesh_thiru_
 
