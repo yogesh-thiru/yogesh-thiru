@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogesh-thiru.
 - 👀 I’m interested in Low Latency development, c++ projects.
-- 🌱 I’m currently in my 3rd year of computer science Bachelors.
+- 🌱 I’m currently in my final year of computer science Bachelors.
 - 💞️ I’m looking to collaborate on people with same frequency! 
 - 📫 my mail id - wolverinedyogesh@gmail.com
      Instagram _y0gesh_thiru_
